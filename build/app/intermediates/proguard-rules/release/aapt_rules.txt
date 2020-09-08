@@ -1,0 +1,20 @@
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:29
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:34
+-keep class com.example.flutter_chat_app.MainActivity { <init>(); }
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:122
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:113
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:141
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:127
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:76
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:135
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:29
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at C:\Users\AliG\Desktop\flutter_chat_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:103
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }

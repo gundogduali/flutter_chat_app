@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\AliG\\Desktop\\flutter_chat_app\\build\\firebase_auth\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\AliG\\.gradle\\caches\\transforms-2\\files-2.1\\abb3fa45579fbb3a2ad91f0ae7c89872\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliG\\Desktop\\flutter_chat_app\\build\\firebase_auth\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\AliG\\.gradle\\caches\\transforms-2\\files-2.1\\abb3fa45579fbb3a2ad91f0ae7c89872\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliG\\Desktop\\flutter_chat_app\\build\\firebase_auth\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\AliG\\.gradle\\caches\\transforms-2\\files-2.1\\abb3fa45579fbb3a2ad91f0ae7c89872\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]
